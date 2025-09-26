@@ -1,0 +1,12 @@
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.hmrtechnologies.com/sitemap.xml
+
+# Disallow admin/cms areas
+Disallow: /cms/
+Disallow: /dashboard/
+Disallow: /crm/
+Disallow: /login/
